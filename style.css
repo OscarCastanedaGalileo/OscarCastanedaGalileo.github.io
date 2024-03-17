@@ -25,6 +25,9 @@ section {
 h1, h2 {
     color: #333;
 }
+.nombre{
+    color: white;
+}
 .fotoperfil{
     text-align: center;
 }
