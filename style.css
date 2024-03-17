@@ -25,6 +25,9 @@ section {
 h1, h2 {
     color: #333;
 }
+.fotoperfil{
+    text-align: center;
+}
 
 .info {
     display: flex;
@@ -54,8 +57,7 @@ h1, h2 {
     }
 
     .profile-pic {
-        text-align: center
-        margin-right: 0;
+                margin-right: 0;
         margin-bottom: 10px;
         ;
     }
